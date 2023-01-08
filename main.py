@@ -1,6 +1,6 @@
 """
 Written by:
-David Maloney
+13igred
 Version 0.1 - 08-01-23
 
 The goal of the application is to provide users of PoB a quicker and easier way to price a build they found online.
